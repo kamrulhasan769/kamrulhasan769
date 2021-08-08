@@ -2,7 +2,7 @@
 - 👀 I’m interested in js
 - 🌱 I’m currently learning vanilla js
 - 💞️ I’m looking to collaborate on js team
-- 📫 How to reach me ...
+- 📫 How to reach me by pulling me 
 
 <!---
 kamrulhasan769/kamrulhasan769 is a ✨ special ✨ repository because its `README responsibe design` (this file) appears on your GitHub profile.
